@@ -3,13 +3,11 @@
 
 The Mountain biking trails in Romania website is designed to be responsive website allowing visitors to view on a range of devices. It allows visitors to find out about mountain biking trails in Romania.
 
-![main page](documentation/index.jpg "main page")
+![responsive layouts](documentation/iamresponsive.jpg "responsive layouts")
 
-## CONTENTS
 ___
 
 ## User Experience (UX)
-![responsive layouts](documentation/iamresponsive.jpg "responsive layouts")
 ___
 
 ### Initial Discusion
@@ -67,16 +65,22 @@ The website uses a palette of pastel colours that are used on the backgroud, hea
 
 Google Fonts was used for the following fonts:
 
-* Ubuntu is used for headings on the site. It is a sans-serif font.
-* Montserrat is used for the body text on the site. It is a sans-serif font.
+* [Ubuntu](https://fonts.google.com/specimen/Ubuntu) is used for headings on the site. It is a sans-serif font.
+* [Montserrat](https://fonts.google.com/specimen/Montserrat) is used for the body text on the site. It is a sans-serif font.
 
 #### Imagery 
 The images were used with the permission of their owners.All pictures are pictures taken by local guides when riding with tourist groups.
+- [Home Page Image](https://pixabay.com/photos/road-path-interior-cycling-bike-2934838/)
+ - [Trails Page Image](https://pixabay.com/photos/mtb-mountain-bike-alps-transalp-1169960/)
+ - [Book Page Image](https://pixabay.com/photos/forest-forest-road-mountain-bike-4366094/)
+ - [About Page Image](https://pixabay.com/photos/umbrail-bocchetta-di-forcola-2670920/)
 
 #### Wireframes
 
 Wireframes were created for mobile, tablet and desktop.
 No digital wireframes, only designed on paper.
+
+![wireframe](documentation/wireframe1.jpg)
 
 #### Features
 
@@ -92,18 +96,22 @@ The website is comprised of four pages(home page, trails page,book page and abou
 * Home Page 
 
     * Main content is broken down into five sections and a map iframe, each section contains an icon with a heading, relevant text and youtube video embedded. On large screens it is displayed as a grid with two columns, on small screens it is displayed stacked verticaly.
+    ![alt](documentation/firefox1.png)
 
 * Trails Page
 
     * On trails page you can find info about trails, information such as: time to complete the run, lenght and elevation. There are four sections in the trails page, each section contain a landscape picture, a trail map picture and information mentioned above. On large screens, pictures and information is displayed horizontaly in a grid with two rows. On small screens content is displayed stacked verticaly.
+    ![alt](documentation/mobile7.jpg)
 
 * Book Page
 
     * On book page is a section containing general information about mountain biking trails. On large screens it is displayed as a grid with two columns, on small screens stacked verticaly. Under the section it is a booking form, allowing user to send an enquiry to check availability of local guides for preffered dates. 
+    ![alt](documentation/mobile5.jpg)
 
 * About Page
 
     * On about page we can find contact details for guides and another form allowing user to submit any other questions and thoughts.
+    ![alt](documentation/mobile6.jpg)
 
 * Future Implementations.
 
@@ -151,7 +159,7 @@ HTML and CSS were used to create this website.
 
 Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
-1. Log in (or sign up) to Github.
+1. Log in(or ign up) to [Github.](https://github.com)
 2. Find the repository for this project, mountain-bikin-trails-in-romania.
 3. Click on the Settings link.
 4. Click on the Pages link in the left hand side navigation bar.
@@ -164,7 +172,7 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 
 To fork the mountain-bikin-trails-in-romania repository:
 
-1. Log in(or ign up) to Github.
+1. Log in(or ign up) to [Github.](https://github.com)
 2. Go to the repository for this project, bubtroniq/mountain_biking_trails_in_romania.
 3. Click the Fork button in the top right corner.
 
@@ -172,9 +180,23 @@ To fork the mountain-bikin-trails-in-romania repository:
 
 To clone the mountain-bikin-trails-in-romania repository:
 
-1. Log in (or sign up) to GitHub.
+1. Log in (or sign up) to [Github.](https://github.com)
 2. Go to the repository for this project, bubtroniq/mountain_biking_trails_in_romania.
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
-5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+5. Type in terminal  `git clone https://github.com/bubtroniq/mountain_bike_trails.git`
 
+### Credits
+---
+ - Tim, my mentor. I am grateful for guidance and patience.
+ - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified), [The Net Ninja](https://www.youtube.com/@NetNinja) and [Kevin Powell](https://www.youtube.com/@KevinPowell) youtube channels.
+
+#### Resources used
+
+ - [W3C markup validation service.](https://validator.w3.org/)
+ - [Jigsaw CSS validation service.](https://jigsaw.w3.org/css-validator/)
+ 
+ - [Coolors](https://coolors.co/fafafa-720c0c-000000-d02300-111010)
+ - [W3Schools](https://www.w3schools.com/)
+
+Click to go to the [TESTING.md](TESTING.md)
